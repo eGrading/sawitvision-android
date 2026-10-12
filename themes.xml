@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.SawitVision" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#14532D</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+    </style>
+</resources>
